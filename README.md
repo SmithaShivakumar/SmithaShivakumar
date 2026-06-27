@@ -26,17 +26,6 @@ I build AI-powered financial systems, decision engines, and scalable product pla
 
 ---
 
-## 🌱 Currently Learning
-
-- Agentic AI workflows
-- Evaluation systems for LLM reliability
-- AI-assisted product development workflows
-- Decision orchestration systems
-- Retrieval-Augmented Generation (RAG) architectures
-- AI-native product management
-
----
-
 ## 👯 Looking to Collaborate On
 
 - FinTech infrastructure
@@ -45,18 +34,6 @@ I build AI-powered financial systems, decision engines, and scalable product pla
 - Open-source AI tooling
 - Real-time analytics platforms
 - Decision intelligence systems
-
----
-
-## 💡 Areas I Enjoy Exploring
-
-- AI + financial systems
-- Payments & transaction workflows
-- Fraud detection & risk scoring
-- Human-in-the-loop AI
-- Product strategy for complex systems
-- AI product experimentation
-- Infrastructure for trustworthy AI
 
 ---
 
@@ -123,18 +100,6 @@ Built platforms supporting:
 
 ---
 
-## 💬 Ask Me About
-
-- AI product management
-- FinTech systems
-- Payments infrastructure
-- Product strategy
-- Real-time decision systems
-- LLM workflows
-- Scaling AI products in regulated environments
-
----
-
 ## 📫 How to Reach Me
 
 - LinkedIn: linkedin.com/in/smithashivakumar
@@ -144,4 +109,4 @@ Built platforms supporting:
 
 ## ⚡ Fun Fact
 
-I enjoy turning messy, high-stakes systems into scalable product workflows — especially where AI, finance, and human decision-making intersect.
+I am a wannabe tri-athlete.
